@@ -46,11 +46,13 @@ namespace OpenKeyboard{
                 e.Handled = true;
             }//func
             
+            /*
             protected override void OnMouseRightButtonDown(MouseButtonEventArgs e) {
                 base.OnMouseRightButtonDown(e);
                 mAppMenu.IsOpen = true; //Show context menu if user right clicks anywhere in the window.
             }//func
-
+            */
+            
             /*
             protected override void OnMouseLeftButtonDown(MouseButtonEventArgs e){
                 base.OnMouseLeftButtonDown(e);
