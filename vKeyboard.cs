@@ -49,13 +49,13 @@ namespace OpenKeyboard {
                 
 
             ,{"OEM2",new KeyItem(0xBF)} // /?
-			,{"OEM1",new KeyItem(0xBA)} //;:
-			,{"OEM4",new KeyItem(0xDB)} //[{
-			,{"OEM6",new KeyItem(0xDD)} //]}
-			,{"OEM5",new KeyItem(0xDC)} //|\
-			,{"OEM7",new KeyItem(0xDE)} //'"
+            ,{"OEM1",new KeyItem(0xBA)} //;:
+            ,{"OEM4",new KeyItem(0xDB)} //[{
+            ,{"OEM6",new KeyItem(0xDD)} //]}
+            ,{"OEM5",new KeyItem(0xDC)} //|\
+            ,{"OEM7",new KeyItem(0xDE)} //'"
 
-			,{"COMMA",new KeyItem(0xBC)},{"PERIOD",new KeyItem(0xBE)}
+            ,{"COMMA",new KeyItem(0xBC)},{"PERIOD",new KeyItem(0xBE)}
             ,{"SPACE",new KeyItem(0x20)},{"ENTER",new KeyItem(0x0D)},{"CAPSLOCK",new KeyItem(0x14)}
             ,{"DEL",new KeyItem(0x2E)},{"BACKSPACE",new KeyItem(0x08)},{"TAB",new KeyItem(0x09)}
 
@@ -64,6 +64,7 @@ namespace OpenKeyboard {
             ,{"F1",new KeyItem(0x70)},{"F2",new KeyItem(0x71)},{"F3",new KeyItem(0x72)},{"F4",new KeyItem(0x73)},{"F5",new KeyItem(0x74)}
             ,{"F6",new KeyItem(0x75)},{"F7",new KeyItem(0x76)},{"F8",new KeyItem(0x77)},{"F9",new KeyItem(0x78)},{"F10",new KeyItem(0x79)}
             ,{"F11",new KeyItem(0x7A)},{"F12",new KeyItem(0x7B)}
+            ,{"ESCAPE",new KeyItem(0x1B)}
 
             ,{"0",new KeyItem(0x30)},{"1",new KeyItem(0x31)},{"2",new KeyItem(0x32)},{"3",new KeyItem(0x33)},{"4",new KeyItem(0x34)}
             ,{"5",new KeyItem(0x35)},{"6",new KeyItem(0x36)},{"7",new KeyItem(0x37)},{"8",new KeyItem(0x38)},{"9",new KeyItem(0x39)}
